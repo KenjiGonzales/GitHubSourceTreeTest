@@ -7,6 +7,7 @@ public class SecretScript : MonoBehaviour {
 	void Start () {
 		print ("You have found the Golden Spoon, now go forth and devour the Ancient Soup");
 		print ("Something has changed");
+		print ("Added something else");
 	}
 	
 	// Update is called once per frame
